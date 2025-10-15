@@ -1,0 +1,4 @@
+1. ¿Qué consecuencias tiene la falta de un modelo de datos en una empresa real?
+    R/= Puede que tenga un colapso en el sistema, falla en la organización, y datos cruzados.
+2. ¿Cómo afecta esto la confiabilidad del software y la satisfacción del cliente?
+    R/= Baja confiabilidad (el sistema no responde como debería), y la satisfacción del cliente claramente no sería la deseada por estar utilizando un sistema poco funcional y básicamente obsoleto.
