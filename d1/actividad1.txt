@@ -1,0 +1,34 @@
+1. Organizar los datos según parezca en el tema asignado;
+        Tema asignado: "Clínica veterinaria"
+
+    Entidades:
+        Mascota
+        Propietario
+        Cita
+        Veterinario
+
+    Propiedades:
+        Identificacion de la mascota
+        Nombre de la mascota
+        Especie
+        Verificación del propietario
+        Identificación del propietario
+        Identificación del veterinario
+        Nombre del veterinario
+
+
+DESARROLLO:
+    Entidad: Mascota
+    Propiedades: Especie, Nombre de la mascota, identificación de la mascota.
+        Síntomas, historial, vacunas registradas. 
+
+    Entidad: Propietario
+    Propiedades: Identificación del propietario, nombre del propietario.
+        Edad, teléfono, correo
+
+    Entidad: Veterinario
+    Propiedades: Nombre del veterinario, identificación del veterinario.
+        Cargo, certificado, teléfono.
+
+    Entidad: Cita
+    Propiedades: Fecha, gravedad del caso (1-3), descripción.
